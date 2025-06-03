@@ -1,0 +1,14 @@
+{
+  "buildCommand": "pnpm run build",
+  "git": {
+    "deploymentEnabled": false
+  },
+  "installCommand": "pnpm i --frozen-lockfile --prefer-offline",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "destination": "/index.html",
+      "source": "/(.*)"
+    }
+  ]
+}
