@@ -15,7 +15,7 @@ const loader = new GLTFLoader();
 // loader.setDRACOLoader(dracoLoader);   <- optional
 
 loader.load(
-  '//localhost:3000/models/Island.gltf',
+  '//localhost:3000/models/Train.gltf',
   function ( gltf ) { // on success
         // do something ...
     scene.add( gltf.scene );

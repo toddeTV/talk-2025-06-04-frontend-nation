@@ -31,7 +31,7 @@ layout: two-cols
       {
         "extras":{
         },
-        "name":"IslandScene",
+        "name":"TrainScene",
         "nodes":[
           0,
           1,
@@ -58,7 +58,7 @@ layout: two-cols
     nodes: [
       {
         "mesh":4,
-        "name":"Island",
+        "name":"Train",
         "scale":[
           150,
           1,
@@ -90,7 +90,7 @@ layout: two-cols
     materials: [],
     meshes: [
       {
-        "name":"rock001",
+        "name":"pantograph",
         "primitives":[
           {
             "attributes":{
@@ -125,7 +125,7 @@ layout: two-cols
     textures: [],
     images: [
       {
-        "uri": "IslandTexture01.png"
+        "uri": "TrainTexture01.png"
       }
     ],
     accessors: [],
@@ -133,7 +133,7 @@ layout: two-cols
     samplers: [],
     buffers: [
       {
-        "uri": "IslandModel.bin",
+        "uri": "TrainModel.bin",
         "byteLength": 612368
       }
     ],
