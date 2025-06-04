@@ -85,14 +85,6 @@ src: content/load-a-gltf-file-2.md
 ---
 
 ---
-src: content/gltf-type-generation.md
----
-
----
-src: content/gltf-type-generation-api.md
----
-
----
 src: content/gltf-type-generation-implementation.md
 ---
 
