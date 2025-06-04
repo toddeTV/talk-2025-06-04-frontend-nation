@@ -3,7 +3,8 @@ layout: cover
 leftOrientation: center
 ---
 
-<h1 class="!text-[2.8rem]">
+<!-- <h1 class="!text-[2.8rem]"> -->
+<h1 class="!text-5xl">
     Your Own Build Tool Agnostic Web-Plugin?<br />
     That's as easy as 1 2 3(D)
 </h1>
@@ -13,7 +14,7 @@ leftOrientation: center
         with <span class="color-[#26ab7a]">Thorsten Seyschab</span>
     </div>
     <div
-        class="absolute top-30 left-136 px-5 py-2 whitespace-nowrap flex flex-row gap-4"
+        class="absolute top-27 left-136 px-5 py-2 whitespace-nowrap flex flex-row gap-4"
         v-click="1"
         v-mark="{ at: 1, color: '#26ab7a', type: 'box' }"
     >

@@ -54,6 +54,7 @@
     "@iconify-json/mdi": "~1.2.3",
     "@iconify-json/simple-icons": "~1.2.22",
     "@slidev/types": "~51.0.2",
+    "@stackblitz/sdk": "~1.11.0",
     "@tresjs/cientos": "~4.3.0",
     "@tresjs/core": "~4.3.3",
     "@tresjs/post-processing": "~2.3.1",

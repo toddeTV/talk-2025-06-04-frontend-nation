@@ -30,6 +30,9 @@ importers:
       '@slidev/types':
         specifier: ~51.0.2
         version: 51.0.2(@nuxt/kit@3.17.4)(@vue/compiler-sfc@3.5.16)(markdown-it-async@2.2.0)(postcss@8.5.4)(typescript@5.7.3)(vite@6.3.5(@types/node@22.12.0)(jiti@2.4.2)(yaml@2.8.0))
+      '@stackblitz/sdk':
+        specifier: ~1.11.0
+        version: 1.11.0
       '@tresjs/cientos':
         specifier: ~4.3.0
         version: 4.3.1(@tresjs/core@4.3.5(three@0.175.0)(typescript@5.7.3)(vue@3.5.16(typescript@5.7.3)))(@types/three@0.175.0)(three@0.175.0)(typescript@5.7.3)(vue@3.5.16(typescript@5.7.3))
@@ -844,6 +847,9 @@ packages:
   '@slidev/types@51.0.2':
     resolution: {integrity: sha512-ff6EFDgYFAwt9ZxFXURpU2QPsQDuy5kyjvGpURcenGozVhEzErdc+7ocn4L7+1lLWKh/oiN2z+UD1qgXdMI6dQ==}
     engines: {node: '>=18.0.0'}
+
+  '@stackblitz/sdk@1.11.0':
+    resolution: {integrity: sha512-DFQGANNkEZRzFk1/rDP6TcFdM82ycHE+zfl9C/M/jXlH68jiqHWHFMQURLELoD8koxvu/eW5uhg94NSAZlYrUQ==}
 
   '@stylistic/eslint-plugin@3.1.0':
     resolution: {integrity: sha512-pA6VOrOqk0+S8toJYhQGv2MWpQQR0QpeUo9AhNkC49Y26nxBQ/nH1rta9bUU1rPw2fJ1zZEMV5oCX5AazT7J2g==}
@@ -5133,6 +5139,8 @@ snapshots:
       - vite
       - vue-template-compiler
       - vue-template-es2015-compiler
+
+  '@stackblitz/sdk@1.11.0': {}
 
   '@stylistic/eslint-plugin@3.1.0(eslint@9.19.0(jiti@2.4.2))(typescript@5.7.3)':
     dependencies:
