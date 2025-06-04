@@ -57,5 +57,81 @@ src: content/start.md
 ---
 
 ---
+src: content/talk-overview.md
+---
+
+---
+src: content/gltf-introduction.md
+---
+
+---
+src: content/gltf-example.md
+---
+
+---
+src: content/render-pipeline-with-showcase.md
+---
+
+---
+src: content/load-a-gltf-file-1.md
+---
+
+---
+src: content/load-a-gltf-file-problems.md
+---
+
+---
+src: content/load-a-gltf-file-2.md
+---
+
+---
+src: content/gltf-type-generation.md
+---
+
+---
+src: content/gltf-type-generation-api.md
+---
+
+---
+src: content/gltf-type-generation-implementation.md
+---
+
+---
+src: content/gltf-type-generation-generated-example.md
+---
+
+---
+src: content/load-a-gltf-file-solution.md
+---
+
+---
+src: content/unplugin-overview.md
+---
+
+---
+src: content/unplugin-starter-code.md
+---
+
+---
+src: content/unplugin-build-tool-differentiation.md
+---
+
+---
+src: content/unplugin-overview-challenges.md
+---
+
+---
+src: content/gltf-type-toolkit.md
+---
+
+---
+src: content/demo-zlig.md
+---
+
+---
+src: content/talk-takeaway.md
+---
+
+---
 src: content/end.md
 ---
