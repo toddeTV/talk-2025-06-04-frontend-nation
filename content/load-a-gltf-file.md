@@ -38,6 +38,8 @@ loader.load(
 
 ::right::
 
+<div v-click>
+
 ## Vision
 
 ````md magic-move {lines: true}
@@ -57,3 +59,5 @@ trainModel.windowLeft.opacity = 0.5
             // ^? three.Mesh
 ```
 ````
+
+</div>
