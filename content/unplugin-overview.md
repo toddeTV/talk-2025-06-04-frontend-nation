@@ -18,6 +18,7 @@ layout: basic
 
 - Unified plugin system for build tools
 - _"jQuery for build tools"_ [@TheAlexLichter](https://www.lichter.io/)
+- Mainly by Anthony (<simple-icons-x class="baseColor mt-0.5" /> <MyLink to="https://x.com/antfu7">@antfu7</MyLink>) & Kevin (<simple-icons-x class="baseColor mt-0.5" /> <MyLink to="https://x.com/sanxiaozhizi">@sanxiaozhizi</MyLink>)
 - <span class="block">supports:</span>
   <img src="/assets/supported-build-tools-from-unplugin.unjs.io.png" class="block" />
 
