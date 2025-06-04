@@ -61,11 +61,11 @@ src: content/talk-overview.md
 ---
 
 ---
-src: content/gltf-introduction.md
+src: content/gltf-example-1.md
 ---
 
 ---
-src: content/gltf-example.md
+src: content/gltf-example-2.md
 ---
 
 ---
