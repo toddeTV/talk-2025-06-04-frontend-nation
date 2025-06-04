@@ -61,11 +61,11 @@ src: content/talk-overview.md
 ---
 
 ---
-src: content/gltf-introduction.md
+src: content/gltf-example-1.md
 ---
 
 ---
-src: content/gltf-example.md
+src: content/gltf-example-2.md
 ---
 
 ---
@@ -82,14 +82,6 @@ src: content/load-a-gltf-file-problems.md
 
 ---
 src: content/load-a-gltf-file-2.md
----
-
----
-src: content/gltf-type-generation.md
----
-
----
-src: content/gltf-type-generation-api.md
 ---
 
 ---

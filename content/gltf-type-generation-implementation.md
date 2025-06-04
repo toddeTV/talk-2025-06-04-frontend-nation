@@ -6,6 +6,8 @@ layout: basic
 
 <v-clicks>
 
+- <ant-design-frown-filled class="text-red-400" /> `three.js` is for runtime, especially the loaders (only in browser, not in node runtime)
+  - <ant-design-smile-filled class="text-green-400" /> solution: patch and implement it as a clone to also still have the original GLTFLoader
 - run `three.js` in node dev and pipe model into it, we then get the runtime object
   - <ant-design-smile-filled class="text-green-400" /> No own parsing
   - <ant-design-smile-filled class="text-green-400" /> Exact what the user gets when they load the model in their runtime
