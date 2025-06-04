@@ -15,22 +15,20 @@ layout: basic
     </div>
 </div>
 
-<!-- <WindowWrapper height="body">
-  <iframe
-    height="100%"
-    src="https://github.com/toddeTV/gltf-type-toolkit"
-    width="100%"
-  />
-</WindowWrapper> -->
+<img src="/assets/gltf-type-toolkit-github-screenshot.png" />
 
-<!-- <WindowWrapper height="body">
-  <iframe
-    height="100%"
-    src="https://www.npmjs.com/package/@todde.tv/gltf-type-toolkit"
-    width="100%"
-  />
-</WindowWrapper> -->
-
-<MyLink to="https://github.com/toddeTV/gltf-type-toolkit">
-  <img src="/assets/gltf-type-toolkit-github-screenshot.png" />
-</MyLink>
+<!-- <div class="relative">
+    <WindowWrapper
+        background="#E1F4FF"
+        height="body"
+    >
+        <img src="/assets/gltf-type-toolkit-github-screenshot.png" />
+    </WindowWrapper>
+    <div class="p-3 flex flex-col gap-2 absolute top-9 left-2 bg-white rounded-md border z-10 justify-center items-center">
+        <QRCode content="https://github.com/toddeTV/gltf-type-toolkit" :size="64" />
+        <div class="w-full text-xs whitespace-nowrap flex flex-row gap-1 justify-center">
+            <mdi-web class="baseColor" />
+            <MyLink to="https://github.com/toddeTV/gltf-type-toolkit">https://github.com/toddeTV/gltf-type-toolkit</MyLink>
+        </div>
+    </div>
+</div> -->
